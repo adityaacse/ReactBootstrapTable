@@ -6,7 +6,7 @@ const App = () => {
 
   return (
     <div className='App'>
-      <h3>Bootstrap Table with functionality of Sorting, Pagination and Search</h3>
+      <h3>Projects</h3>
       <BootstrappedTable />
     </div>
   );
